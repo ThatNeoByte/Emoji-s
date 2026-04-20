@@ -78,6 +78,20 @@
       "1240722575357776016"
     ]
   },
+  "blondenekonod": {
+    "url": "https://cdn.discordapp.com/emojis/1314640793469718660.gif",
+    "tags": [
+      "blondenekonod",
+      "1314640793469718660"
+    ]
+  },
+  "blondenekopain": {
+    "url": "https://cdn.discordapp.com/emojis/1337138597446553651.png",
+    "tags": [
+      "blondenekopain",
+      "1337138597446553651"
+    ]
+  },
   "loading": {
     "url": "https://cdn.discordapp.com/emojis/1249092622463664128.png",
     "tags": [
@@ -169,48 +183,6 @@
       "1250165498998689813"
     ]
   },
-  "darkblue": {
-    "url": "https://cdn.discordapp.com/emojis/1261010019537653760.png",
-    "tags": [
-      "darkblue",
-      "1261010019537653760"
-    ]
-  },
-  "gold": {
-    "url": "https://cdn.discordapp.com/emojis/1261010226082086975.png",
-    "tags": [
-      "gold",
-      "1261010226082086975"
-    ]
-  },
-  "cyan": {
-    "url": "https://cdn.discordapp.com/emojis/1261011603063705610.png",
-    "tags": [
-      "cyan",
-      "1261011603063705610"
-    ]
-  },
-  "darkgreen": {
-    "url": "https://cdn.discordapp.com/emojis/1261014548471873536.png",
-    "tags": [
-      "darkgreen",
-      "1261014548471873536"
-    ]
-  },
-  "actualred": {
-    "url": "https://cdn.discordapp.com/emojis/1262699244263837790.png",
-    "tags": [
-      "actualred",
-      "1262699244263837790"
-    ]
-  },
-  "darkred": {
-    "url": "https://cdn.discordapp.com/emojis/1262699261158752276.png",
-    "tags": [
-      "darkred",
-      "1262699261158752276"
-    ]
-  },
   "cat_dab": {
     "url": "https://cdn.discordapp.com/emojis/1262703031015964782.png",
     "tags": [
@@ -223,13 +195,6 @@
     "tags": [
       "Cat_hmpfmad",
       "1262703032324587602"
-    ]
-  },
-  "blob_cat_police": {
-    "url": "https://cdn.discordapp.com/emojis/1262703040968921138.png",
-    "tags": [
-      "blob_cat_police",
-      "1262703040968921138"
     ]
   },
   "Cat_hello": {
@@ -491,55 +456,6 @@
       "1262714345041821708"
     ]
   },
-  "wasteland": {
-    "url": "https://cdn.discordapp.com/emojis/1267267504426979400.png",
-    "tags": [
-      "wasteland",
-      "1267267504426979400"
-    ]
-  },
-  "valley": {
-    "url": "https://cdn.discordapp.com/emojis/1267267522990833736.png",
-    "tags": [
-      "valley",
-      "1267267522990833736"
-    ]
-  },
-  "forest": {
-    "url": "https://cdn.discordapp.com/emojis/1267267539084378173.png",
-    "tags": [
-      "forest",
-      "1267267539084378173"
-    ]
-  },
-  "prairie": {
-    "url": "https://cdn.discordapp.com/emojis/1267267559321763912.png",
-    "tags": [
-      "prairie",
-      "1267267559321763912"
-    ]
-  },
-  "LHonk": {
-    "url": "https://cdn.discordapp.com/emojis/1270926054126518383.png",
-    "tags": [
-      "LHonk",
-      "1270926054126518383"
-    ]
-  },
-  "RHonk": {
-    "url": "https://cdn.discordapp.com/emojis/1270926076411121664.png",
-    "tags": [
-      "RHonk",
-      "1270926076411121664"
-    ]
-  },
-  "gnar_sip": {
-    "url": "https://cdn.discordapp.com/emojis/1273767719015022675.png",
-    "tags": [
-      "gnar_sip",
-      "1273767719015022675"
-    ]
-  },
   "aggrocat": {
     "url": "https://cdn.discordapp.com/emojis/1281787580152807424.png",
     "tags": [
@@ -701,32 +617,11 @@
       "1291505999428976780"
     ]
   },
-  "hollow_dance": {
-    "url": "https://cdn.discordapp.com/emojis/1308884295028441118.gif",
-    "tags": [
-      "hollow_dance",
-      "1308884295028441118"
-    ]
-  },
-  "durian": {
-    "url": "https://cdn.discordapp.com/emojis/1308917688206098432.png",
-    "tags": [
-      "durian",
-      "1308917688206098432"
-    ]
-  },
   "KittyRave": {
     "url": "https://cdn.discordapp.com/emojis/1309902065337892999.png",
     "tags": [
       "KittyRave",
       "1309902065337892999"
-    ]
-  },
-  "blondenekonod": {
-    "url": "https://cdn.discordapp.com/emojis/1314640793469718660.gif",
-    "tags": [
-      "blondenekonod",
-      "1314640793469718660"
     ]
   },
   "NekoCool": {
@@ -806,13 +701,6 @@
       "1337138593218564258"
     ]
   },
-  "blondenekopain": {
-    "url": "https://cdn.discordapp.com/emojis/1337138597446553651.png",
-    "tags": [
-      "blondenekopain",
-      "1337138597446553651"
-    ]
-  },
   "NekoDougnut": {
     "url": "https://cdn.discordapp.com/emojis/1337138602311815350.png",
     "tags": [
@@ -846,13 +734,6 @@
     "tags": [
       "NekoSad",
       "1346790758769758218"
-    ]
-  },
-  "NekoPlease": {
-    "url": "https://cdn.discordapp.com/emojis/1346866652243034233.gif",
-    "tags": [
-      "NekoPlease",
-      "1346866652243034233"
     ]
   },
   "NekoBongo": {
@@ -911,11 +792,18 @@
       "1346867375353626664"
     ]
   },
-  "Iggy_Pog": {
-    "url": "https://cdn.discordapp.com/emojis/1403108623844118608.png",
+  "blob_cat_police": {
+    "url": "https://cdn.discordapp.com/emojis/1262703040968921138.png",
     "tags": [
-      "Iggy_Pog",
-      "1403108623844118608"
+      "blob_cat_police",
+      "1262703040968921138"
+    ]
+  },
+  "gnar_sip": {
+    "url": "https://cdn.discordapp.com/emojis/1273767719015022675.png",
+    "tags": [
+      "gnar_sip",
+      "1273767719015022675"
     ]
   },
   "Poffmerr_Giggle": {
